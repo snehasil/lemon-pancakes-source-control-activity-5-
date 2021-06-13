@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "woO9LlIvHOk2bAb6btvN0wxCSzAGqhFTa3e/LpM7vyVqGu3bwONcATUVE1WXtwMYkgfHnUx5bXoC5DyhIptK/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sneha\\Desktop\\CTW 2021 Repositories\\lemon pancakes (source control activity 5)\\lemon pancakes (source control activity 5)\\lemon pancakes (source control activity 5).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sneha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
